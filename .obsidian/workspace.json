@@ -11,8 +11,12 @@
             "id": "de8f19c020c87241",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Defi/R&D/Liquidity Mining.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Defi/R&D/Liquidity Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Defi/R&D/Liquidity Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Defi/R&D/Liquidity Mining.md"
+              }
             }
           }
         ]
@@ -138,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de8f19c020c87241",
+  "active": "8153526189a64f71",
   "lastOpenFiles": []
 }
