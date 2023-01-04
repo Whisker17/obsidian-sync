@@ -23,12 +23,8 @@
             "id": "9a5b31185818333a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Careers/以及.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Careers/以及.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Careers/以及.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Careers/以及.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +151,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8153526189a64f71",
+  "active": "9a5b31185818333a",
   "lastOpenFiles": [
+    "Careers/以及.md",
     "README.md",
     "Defi/R&D/Liquidity Mining.md"
   ]
