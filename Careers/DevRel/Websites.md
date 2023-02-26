@@ -1,0 +1,4 @@
+- https://cryptocurrencyjobs.co/
+- https://angel.co/jobs
+- https://developerdao.pallet.com/jobs
+- https://web3.career/developer-relations+remote-jobs

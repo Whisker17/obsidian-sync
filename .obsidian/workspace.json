@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c3cf491ec9fd61",
+        "id": "c91dec7480d7eab3",
         "type": "tabs",
         "children": [
           {
-            "id": "de8f19c020c87241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a5b31185818333a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-End/Nextjs/Next.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55a0c9b600868747",
+            "id": "4bb3e9dd431b5a36",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,14 +135,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8153526189a64f71",
+  "active": "4bb3e9dd431b5a36",
   "lastOpenFiles": [
+    "README.md",
+    "Careers/DevRel/Aims.md",
+    "Careers/DevRel/Websites.md",
+    "Careers/DevRel",
+    "infrastructure/Data/SxT/Awesome-SxT.md",
     "Front-End/Nextjs/Next.js.md",
     "Careers/以及.md",
-    "README.md",
     "Defi/R&D/Liquidity Mining.md"
   ]
 }
