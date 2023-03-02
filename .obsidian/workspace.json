@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c91dec7480d7eab3",
+        "id": "c69ba5497199ce2c",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb3e9dd431b5a36",
+            "id": "7a0965d92e80f5ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Defi/R&D/Liquidity Mining.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.5
   },
   "right": {
     "id": "d8a4e43306c9feab",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defi/R&D/Liquidity Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defi/R&D/Liquidity Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Defi/R&D/Liquidity Mining.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,15 +140,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bb3e9dd431b5a36",
+  "active": "7a0965d92e80f5ed",
   "lastOpenFiles": [
+    "infrastructure/Account Abstraction/Reading Lists.md",
+    "().md",
+    "Defi/Liquidity Mining/Liquidity Mining.md",
     "Careers/DevRel/Aims.md",
     "README.md",
     "Careers/DevRel/Websites.md",
     "Careers/DevRel",
     "infrastructure/Data/SxT/Awesome-SxT.md",
     "Front-End/Nextjs/Next.js.md",
-    "Careers/以及.md",
-    "Defi/R&D/Liquidity Mining.md"
+    "Careers/以及.md"
   ]
 }
